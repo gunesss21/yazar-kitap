@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/bin/Debug/net8.0/yazarvekitap
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/bin/Debug/net8.0/yazarvekitap.deps.json
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/bin/Debug/net8.0/yazarvekitap.runtimeconfig.json
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/bin/Debug/net8.0/yazarvekitap.dll
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/bin/Debug/net8.0/yazarvekitap.pdb
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.AssemblyInfo.cs
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.dll
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/refint/yazarvekitap.dll
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.pdb
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/yazarvekitap.genruntimeconfig.cache
+/Users/svage/RiderProjects/yazarvekitap/yazarvekitap/obj/Debug/net8.0/ref/yazarvekitap.dll
